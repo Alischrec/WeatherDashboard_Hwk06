@@ -20,10 +20,10 @@ View the [Github-pages](https://alischrec.github.io/WeatherDashboard_Hwk06/)
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project:
-<!-- The focus of this project was to create an interractive day calendar. The calendar is for the modern 9-5pm work day, with a date and time at the top. Once the hour has past, the color of the row will change, that way the user knows which hour of the day they are on. Each entry is saved into localStorage so that the user can keep a log of their tasks. -->
+The focus of this project was to use the AJAX call to create a weather dashboard. The project was to add searched items into local storage for later reference.  
 
 
-<!-- ![Project Gif](assets/image/gif.gif)  -->
+![Project Gif](assets/image/gif.gif) 
 
 ### HTML:
 * [index.html](https://github.com/Alischrec/WeatherDashboard_Hwk06/blob/main/index.html)
@@ -32,7 +32,7 @@ View the [Github-pages](https://alischrec.github.io/WeatherDashboard_Hwk06/)
 * [script.js](https://github.com/Alischrec/WeatherDashboard_Hwk06/blob/main/script.js)
 
 ### Built With:
-<!-- This app was built upon [Bootstrap Framework](https://www.getbootstrap.com), [jQuery](https://jquery.com/download/), and [Momentjs](https://momentjs.com/) -->
+This app was built upon [Bootstrap Framework](https://www.getbootstrap.com) and [jQuery](https://jquery.com/download/).
 
 ## Getting Started:
 To get a local copy up and running follow the steps below.
